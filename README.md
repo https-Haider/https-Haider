@@ -65,6 +65,22 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 **Data:** PostgreSQL · MySQL · MongoDB · SQL<br>
 **Platforms & integrations:** Git · GitHub · Vercel · Stripe · Cloudinary · WhatsApp Business API
 
+## GitHub stats
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&show_icons=true&locale=en&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&show_icons=true&locale=en&layout=compact" alt="https-Haider" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en" alt="https-Haider" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=https-Haider">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https-Haider" alt="https-Haider" />
+  </a>
+</p>
+
 ## Education & certification
 
 - **BS Software Engineering** — COMSATS University Islamabad, Lahore Campus · 2022–2026
