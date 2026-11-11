@@ -92,17 +92,23 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 
 ## GitHub stats
 
+<!-- count_private + include_all_commits so HPA Plus / Bizhubz private mirrors are counted; cache_seconds + v= busts stale CDN cache -->
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&show_icons=true&locale=en&layout=compact">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&show_icons=true&locale=en&layout=compact" alt="https-Haider" />
+  <a href="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800&v=20261111">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800&v=20261111" alt="Haider Abbas GitHub stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en" alt="https-Haider" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111" alt="Haider Abbas top languages" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=https-Haider">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https-Haider" alt="https-Haider" />
+  <a href="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111">
+    <img src="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111" alt="Haider Abbas GitHub streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/https-Haider">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=https-Haider&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity&v=20261111" alt="Haider Abbas contribution activity graph" />
   </a>
 </p>
 
