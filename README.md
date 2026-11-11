@@ -51,6 +51,14 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 - Developed the **React Native** mobile app for appraisals, test drives, document signing, chat, vehicle management, and reconditioning.
 - [Google Play](https://play.google.com/store/apps/details?id=com.bizhubz.app) · [App Store](https://apps.apple.com/pk/app/bizhubz/id6807721811)
 
+### [AutoHisab](https://autohisab.vercel.app/) · Pakistan vehicle cost calculators
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+- Built a mobile-first product for Pakistani drivers to estimate **monthly/annual fuel cost** and compare **3–5 year ownership** (depreciation, fuel, maintenance, insurance, taxes/fees).
+- Shipped transparent formulas, original guides, accessible forms, and SEO-ready metadata with sitemap and robots endpoints—no accounts or stored vehicle data.
+- Live: [autohisab.vercel.app](https://autohisab.vercel.app/) · Repo: [https-Haider/AutoHisab](https://github.com/https-Haider/AutoHisab)
+
 ### [Cliniqly](https://www.cliniqly.tech/) · Clinic booking and WhatsApp automation
 
 `Next.js` `Node.js` `React Native` `WhatsApp Business API`
