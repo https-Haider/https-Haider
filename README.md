@@ -22,9 +22,10 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 ### Full-Stack Developer · Escalo AI
 `Jul 2026 – Present`
 
+- Contributing to **HPA Plus**, a multi-tenant NDIS / aged-care SaaS—collaborating on the **Next.js** provider portal and building the **Expo / React Native** admin and staff apps (rostering, clients, invoices, payroll, e-sign, onboarding, Xero SSO).
 - Migrating BizHub's legacy Laravel backend to **Python and FastAPI**, rewriting REST endpoints and core business logic while maintaining compatibility with existing clients.
 - Building BizHub's **React Native** mobile application from the ground up for automotive dealership operations.
-- Working with the founding team on architecture and product decisions across the backend and mobile stack.
+- Working with the founding team on architecture and product decisions across web, mobile, and backend.
 
 ### Software Engineering Intern · Rhombix Technologies
 `May 2026 – Jul 2026`
@@ -33,6 +34,22 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 - Built the backend's Python object model and helped deliver the complete system with a React frontend.
 
 ## Selected projects
+
+### [HPA Plus](https://hpa-plus.vercel.app/) · NDIS care SaaS · Web & Mobile
+
+`Next.js` `React Native` `Expo` `FastAPI` `TypeScript`
+
+- Collaborated with the Escalo team on the **Next.js** provider portal for Australian NDIS and aged-care operations—rostering, client care, staff, invoicing, payroll, e-sign, and compliance.
+- Built the cross-platform **Expo** admin and staff experience with live API parity, including roster boards, invoices, payroll, e-sign, onboarding, and Xero SSO.
+- Product: [hpaplus.com.au](https://www.hpaplus.com.au/) · Live web: [hpa-plus.vercel.app](https://hpa-plus.vercel.app/)
+
+### [Bizhubz](https://bizhubz.vercel.app/sign-in) · Automotive SaaS · Web & Mobile
+
+`React Native` `Expo` `FastAPI` `Python`
+
+- Modernizing a multi-workflow dealership platform by migrating the Laravel backend to **FastAPI** and rebuilding core REST business logic.
+- Developed the **React Native** mobile app for appraisals, test drives, document signing, chat, vehicle management, and reconditioning.
+- [Google Play](https://play.google.com/store/apps/details?id=com.bizhubz.app) · [App Store](https://apps.apple.com/pk/app/bizhubz/id6807721811)
 
 ### [Cliniqly](https://www.cliniqly.tech/) · Clinic booking and WhatsApp automation
 
