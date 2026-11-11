@@ -92,24 +92,16 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 
 ## GitHub stats
 
-<!-- count_private + include_all_commits so HPA Plus / Bizhubz private mirrors are counted; cache_seconds + v= busts stale CDN cache -->
+<!-- Official github-readme-stats.vercel.app is paused (503). Using GitHub Stats Extended + demolab streak. count_private needs "Include private contributions" enabled on the profile. -->
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800&v=20261111">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800&v=20261111" alt="Haider Abbas GitHub stats" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111" alt="Haider Abbas top languages" />
-  </a>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=20261111b" alt="Haider Abbas GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111b" alt="Haider Abbas top languages" />
 </p>
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111">
-    <img src="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111" alt="Haider Abbas GitHub streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111b" alt="Haider Abbas GitHub streak" />
 </p>
 <p align="center">
-  <a href="https://github.com/https-Haider">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=https-Haider&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity&v=20261111" alt="Haider Abbas contribution activity graph" />
-  </a>
+  <img src="https://ghchart.rshah.org/40916c/https-Haider" alt="Haider Abbas contribution chart" />
 </p>
 
 ## Education & certification
