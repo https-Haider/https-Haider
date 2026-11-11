@@ -85,23 +85,37 @@ I'm a Software Engineering graduate based in Lahore, Pakistan, currently working
 
 ## Technical toolkit
 
-**Frontend & mobile:** React · React Native · Next.js · Expo · JavaScript · TypeScript · HTML · CSS<br>
-**Backend:** Node.js · Express · Python · FastAPI · Flask · REST APIs<br>
-**Data:** PostgreSQL · MySQL · MongoDB · SQL<br>
-**Platforms & integrations:** Git · GitHub · Vercel · Stripe · Cloudinary · WhatsApp Business API
-
-## GitHub stats
-
-<!-- Official github-readme-stats.vercel.app is paused (503). Using GitHub Stats Extended + demolab streak. count_private needs "Include private contributions" enabled on the profile. -->
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=https-Haider&show_icons=true&locale=en&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=20261111b" alt="Haider Abbas GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=https-Haider&locale=en&layout=compact&count_private=true&langs_count=8&cache_seconds=1800&v=20261111b" alt="Haider Abbas top languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,fastapi,postgres,mysql,mongodb,tailwind,vercel,github&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, FastAPI, PostgreSQL, MySQL, MongoDB, Tailwind, Vercel, GitHub" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=https-Haider&count_private=true&v=20261111b" alt="Haider Abbas GitHub streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,redux,docker,aws,linux,postman,figma&theme=dark" alt="HTML, CSS, Redux, Docker, AWS, Linux, Postman, Figma" />
 </p>
+
+## On GitHub
+
+<!-- Private activity needs: Profile → Contributions & activity → Include private contributions -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/40916c/https-Haider" alt="Haider Abbas contribution chart" />
+  <img src="https://icon.mzrdev.com/trophy?username=https-Haider&theme=gitdimmed&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true&v=20261111d" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https-Haider&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=https-Haider&theme=github_dark" alt="GitHub stats summary" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https-Haider&theme=github_dark" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https-Haider&theme=github_dark" alt="Most used languages by commits" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https-Haider&theme=github_dark&utcOffset=5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=https-Haider&theme=dark&hide_border=true&count_private=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&v=20261111d" alt="GitHub streak" />
 </p>
 
 ## Education & certification
